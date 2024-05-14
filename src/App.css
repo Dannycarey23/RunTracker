@@ -1,0 +1,40 @@
+#root {
+	margin: 0;
+	text-align: center;
+}
+
+html {
+	width: 100%;
+}
+
+.card {
+	padding: 2em;
+}
+
+.navbar {
+	background-color: #6f42c1;
+	position: absolute;
+	top: 0%;
+	width: 100%;
+	height: 5%;
+}
+
+.footer {
+	background-color: #6f42c1;
+	position: absolute;
+	bottom: 0%;
+	width: 100%;
+	height: 5%;
+}
+
+.mainContainer {
+	width: 100%;
+}
+
+form {
+	margin: auto;
+	width: 25%;
+	align-items: center;
+	text-align: center;
+  
+}
